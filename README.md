@@ -1,2 +1,2 @@
 # Html-CSS-JS
-this is Html CSS and JS projects from udemy course witch i watch and from whose i learn a fudamentals of HTML CSS AND JS.
+This is a course on html, css, javiscript that I attended on the udemy site with lecturers John Smilge and learned the basics of syntax about these languages ​​and in the courses I did a couple of projects that are attached
